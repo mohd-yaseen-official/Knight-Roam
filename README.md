@@ -26,7 +26,7 @@ Built using:
 
 ### 📹 Gameplay Preview
 
-[Click here to watch the video](KnightRoam-Gameplay.mp4)
+[Click here to watch the video](Knight%20Roam%20Promo%20-%201.mp4)
 
 ## 🔧 Installation
 
