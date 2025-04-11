@@ -24,6 +24,10 @@ Built using:
 - Karisori asset package
 - Pixel Adventure package
 
+### 📹 Gameplay Preview
+
+[Click here to watch the video](KnightRoam-Gameplay.mp4)
+
 ## 🔧 Installation
 
 1. Clone the repository:
