@@ -55,8 +55,11 @@ This game is currently in development. Features that are implemented:
 
 ## 🎓 Credits
 
-Developed by Mohamed Yaseen V M
-Using Unity Engine
+**Developed By:** Mohamed Yaseen V M 
+**Age at completion:** 14 years old  
+**Game completed on:** February 17, 2025  
+**Birthdate:** April 17, 2010  
+**Development:** Fully self-developed using Unity and C#
 
 ---
 **Note**: This game is still under development and not yet ready for public release. Screenshots and features may change in the final version.
